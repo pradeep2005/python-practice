@@ -8,8 +8,3 @@ for number in num_lst:
 
 print(biggest_num)
 
-my_name = "pradeep"
-
-letter = list(my_name)
-
-print(letter)
